@@ -10,11 +10,11 @@ import javax.faces.bean.RequestScoped;
 public class Navigation2Ctrl implements Serializable {
 
 	public String processPage1 () {
-		return "page";
+		return "page1";
 	}
 
 	public String processPage2 () {
-		return "page";
+		return "page2";
 	}
 
 }
